@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moabre/)
 [![Mail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:muhammadrehman21@gmail.com)
 
-<p> Welcome to my Github page! I am currently hunting for a developer role, if I can help contribute to your company with my tech stack please reach out! Feel free to poke around my repositories :) 
+<p> Welcome to my Github page! I am currently hunting for a developer role, if I can help contribute to your company with my tech stack please reach out! Feel free to poke around my repositories.
   <br/>
 
 - 🌱 &nbsp; Full-Stack Developer
