@@ -13,7 +13,7 @@
 - 🌱 &nbsp; Full-Stack Developer
 - 📍 &nbsp; Toronto, Canada 
 
-<h3> Things I am currently working/learning</h3>
+<h3> Things I am currently working on/learning</h3>
 <ul>
   <li> Learning and integrating GraphQL into my skill set</li>
   <li> Mastering typescript and utilizing in more complex projects</li>
